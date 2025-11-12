@@ -1,0 +1,1 @@
+<link rel="icon" href="imgs/web.jpg" type="image/gif" sizes="16x16">
